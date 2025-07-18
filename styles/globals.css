@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+.bgNumberTaskCompleted {
+  background-color: #DCFCE7;
+  color: #166551;
+}
+
+.completed {
+  background-color: #FAFEFC;
+  border-color: #BBF7D0;
+}
+
+.bgNumberTaskPending {
+  background-color: #DBEAFE;
+  color: #4850AF;
+}
+
+.pending {
+  background-color: #FAFCFF;
+  border-color: #BFDBFE;
+}
+
+body{
+  background-color: #F9FAFB;
+}
